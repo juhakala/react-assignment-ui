@@ -1,5 +1,10 @@
 # react-assignment-ui
 
+<h1>Important:</h1>
+<h3>Heroku turns server to idle after 30min of inactivity and starts it again with first visitor after this.
+So if page returns server error after 10s and tells to look at 'heroku logs --tail'. Just reload the page and server should be up and running again.</h3>
+
+
 ```
 Pre assignment for Reaktor with react and node.js proxy to avoid CORS issue with secure browsers
 
